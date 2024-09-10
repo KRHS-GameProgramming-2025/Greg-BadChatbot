@@ -9,7 +9,7 @@ if food == "fries":
 if food == "Fries":
     print("Nice! I am a big fan of potato!")
 else:
-    print("I do't like "+food+", "+name +". I like to eat brains!🧠")
+    print("I don't like "+food+", "+name +". I like to eat brains!🧠")
 
 game = input("what is your favourite game?")
 if game == "monster hunter":
@@ -35,5 +35,5 @@ if Answer == "Yes":
 elif Answer == "No":
     print(":(")
 else:
-    print(" Kill your self "*999)
+    print(" to the moooooooon "*999)
 
