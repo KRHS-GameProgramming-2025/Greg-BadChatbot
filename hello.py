@@ -3,6 +3,7 @@ greeting = "I know where you live"
 print(greeting + " " + name)
 if name == "Dave":
     print("Long time no see")
+    
 food = input("What is your favourite food?")
 if food == "fries":
     print("Nice! I am a big fan of potato!")
