@@ -28,7 +28,7 @@ if song == "Daisy Bell":
 elif song == ("daisy bell"):
     print("That is my favourite song too!🔴")
 else:
-    print("(´⊙ω⊙`)ᵒᵐᵍᵎᵎᵎ my favourite is 𝓓𝓪𝓲𝓼𝔂 𝓑𝓮𝓵𝓵. I can sing it for you!     ▶︎ •၊၊||၊|။||||။‌‌‌‌‌၊|• 0:10")
+    print( song + "?" + "(´⊙ω⊙`)my favourite is 𝓓𝓪𝓲𝓼𝔂 𝓑𝓮𝓵𝓵. I can sing it for you!     ▶︎ •၊၊||၊|။||||။‌‌‌‌‌၊|• 0:10")
 
 Answer = input("Can I send you to the moon?")
 if Answer == "Yes":
