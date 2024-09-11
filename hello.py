@@ -39,7 +39,7 @@ else:
     print(" to the moooooooon "*999)
 
 goodbye = input("See you next time.")
-if goodbye == "bye"
+if goodbye == "bye":
     print(":)")
 else:
     print("bye")
