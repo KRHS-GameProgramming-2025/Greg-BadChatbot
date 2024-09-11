@@ -38,3 +38,5 @@ elif Answer == "No":
 else:
     print(" to the moooooooon "*999)
 
+
+goodbye = input("See you next time.")
