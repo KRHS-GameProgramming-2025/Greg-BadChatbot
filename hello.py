@@ -43,3 +43,5 @@ if goodbye == "bye"
     print(":)")
 else:
     print("bye")
+    
+input()
